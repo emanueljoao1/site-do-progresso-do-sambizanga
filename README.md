@@ -1,11 +1,11 @@
-# ⚽ Site de Futebol
+#  Site de Futebol
 
 Este é um projeto de um site de futebol desenvolvido por mim como forma de prática de HTML e CSS.
 
-## 🚀 Sobre o projeto
+##  Sobre o projeto
 Criei este site para treinar a estruturação de páginas web e estilização com CSS. O projeto simula um site de futebol com layout simples e organizado.
 
-## 🛠️ Tecnologias usadas
+## Tecnologias usadas
 - HTML5
 - CSS3
 
