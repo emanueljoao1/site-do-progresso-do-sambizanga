@@ -95,7 +95,7 @@ h1{
     height: 500px;
     background-image: url(file/183660810_103050121960833_5166603363252462821_n.jpg);
     background-repeat: no-repeat;
-    background-size: cover; /* PREENCHE TUDO */
+    background-size: cover; 
     background-position: center 34%;
 }
 noticia{
